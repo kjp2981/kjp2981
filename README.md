@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <b>Languages and Tools</b>
  - used as the main<br>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/C#-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/></a>
  - used at least once<br>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
