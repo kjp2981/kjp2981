@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
  - 🔭 I am currently attending <b>Gyeonggi Game Meister High School</b>.
- - 🌱 I am currently studying C, C++, C#, and Unity.
+ - 🌱 I am currently studying <b>C</b>, <b>C++</b>, <b>C#</b>, and <b>Unity</b>.
  - 📫 How to reach me : kjp29816265@gmail.com
 
 <b>Languages and Tools</b>
