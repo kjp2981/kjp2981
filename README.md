@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hi there 👋 I'm JaePil Kim
 
 <!--
 **kjp2981/kjp2981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
