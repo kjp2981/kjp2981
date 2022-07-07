@@ -26,10 +26,13 @@ Here are some ideas to get you started:
  - 📫 How to reach me : kjp29816265@gmail.com
 
 <b>Languages and Tools</b>
- - used as the main
-    - C++, C#, Unity
- - used at least once
-    - C, Python
+ - used as the main<br>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/C#-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/></a>
+ - used at least once<br>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <br>
 
-![kjp2981's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjp2981&show_icons=true&theme=dark)
+![JaePil%20Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjp2981&show_icons=true&theme=dark)
