@@ -28,9 +28,6 @@ Here are some ideas to get you started:
 <b>Languages and Tools</b>
  - used as the main
     - C++, C#, Unity
-    <!--
-    <img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
-    -->
  - used at least once
     - C, Python
 <br>
