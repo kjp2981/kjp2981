@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/></a>
  - used at least once<br>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+    <!--<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>-->
 <br>
 
 ![JaePil%20Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjp2981&show_icons=true&theme=dark)
