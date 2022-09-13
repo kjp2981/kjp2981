@@ -36,3 +36,5 @@ Here are some ideas to get you started:
 <br>
 
 ![JaePil%20Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjp2981&show_icons=true&theme=dark)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjp2981&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
