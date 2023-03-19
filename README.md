@@ -17,6 +17,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kjp2981&theme=dark)](https://git.io/streak-stats)
 ![JaePil%20Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjp2981&show_icons=true&theme=dark)
-<a href="https://opgc.me/#/users/kjp2981" target="_blank"><img src="https://api.opgc.me/githubs/users/kjp2981/tag/?theme=basic" /></a>
+<!--<a href="https://opgc.me/#/users/kjp2981" target="_blank"><img src="https://api.opgc.me/githubs/users/kjp2981/tag/?theme=basic" /></a>-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjp2981&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
